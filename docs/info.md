@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I have no idea how it works
 
 ## How to test
 
-Explain how to use your project
+If anything changes at all as you vary the inputs, it's going well
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+8 segment LED display
